@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>سارة مرشد | مطورة ويب</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; padding: 50px; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); max-width: 600px; margin: auto; }
+        a { display: block; margin: 10px 0; color: #007bff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>سارة عبد علي مرشد</h1>
+        <p>مبرمجة ويب وطالبة نظم معلومات</p>
+        <h3>مشاريعي:</h3>
+        <a >سارة سوبر ماركت</a>
+        <a>مشروع رحال اليمن</a>
+        <a>المشروع الثالث</a>
+        <a >المشروع الرابع</a>
+    </div>
+</body>
+</html>
